@@ -10,6 +10,8 @@ int main(void)
 	int len = sizeof(v) / sizeof(int);
 
 	// add implementation
+	// add more implementation
+	//
 	printf("Max is %d\n", vector_max(v, len));
 
 	return 0;

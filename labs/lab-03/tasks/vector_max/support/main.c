@@ -9,6 +9,7 @@ int main(void)
 	int v[] = {4, 1, 2, -17, 15, 22, 6, 2};
 	int len = sizeof(v) / sizeof(int);
 
+	// add implementation
 	printf("Max is %d\n", vector_max(v, len));
 
 	return 0;

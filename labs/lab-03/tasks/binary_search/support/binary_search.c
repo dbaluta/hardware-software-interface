@@ -11,6 +11,10 @@ int binary_search(int *v, int len, int dest)
 	int middle;
 
 	// add implementation
+	//
+	//
+	// dasfa
+	//
 	/**
 	 * TODO: Implement binary search
 	 */
